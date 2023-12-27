@@ -25,4 +25,8 @@ Our proposed solution is given below:
 - Then we worked on White-board Application for the users to draw and save their sketches.
 - Then we made a function to take the image from device and made the model to predict what is drawn.
 
-Finally,  the results are shown.
+<p>
+Finally, the results are shown.
+
+![Results](./results.png)
+<p>
