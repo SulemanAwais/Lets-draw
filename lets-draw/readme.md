@@ -40,3 +40,5 @@ Finally, the results are shown.
 - This application can be used to make levels of difficulty for the users to draw better and better sketches.
 - This can be used as a mobile application.
 
+### References
+Here is the [link of the dataset](https://www.kaggle.com/datasets/google/tinyquickdraw?resource=download) that we used in this project. 
