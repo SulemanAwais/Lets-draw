@@ -8,5 +8,12 @@ User can give us sketches like these:
 
 ![sketch of a candle](./candle.png)
 
-We have to identify what object the user has drawn
+We have to identify what object the user has drawn.
 <p>
+
+## Applications
+Our Project has following applications:
+- This can be used for the learning of children about various objects.
+- This can also be seen as a fun game for everyone. This is excellent to eliminate boredom.
+- Teachers can use this application to take drawing tests of children.
+
