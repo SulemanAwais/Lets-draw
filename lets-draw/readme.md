@@ -34,3 +34,9 @@ Finally, the results are shown.
 ## Drawbacks
 - If the user has drawn something that the model as not seen (not trained upon), the model will still predict but that would be wrong definitely.
 - If the user has drawn that is difficult for even the human eye to understand, the model is most likely to make a mistake too.
+
+## Future Directions
+- This can also detect shapes, so it can be used to convert hand-drawn flow charts into digital and editable form.
+- This application can be used to make levels of difficulty for the users to draw better and better sketches.
+- This can be used as a mobile application.
+
