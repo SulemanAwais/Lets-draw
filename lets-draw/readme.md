@@ -17,3 +17,12 @@ Our Project has following applications:
 - This can also be seen as a fun game for everyone. This is excellent to eliminate boredom.
 - Teachers can use this application to take drawing tests of children.
 
+## Proposed solution
+Our proposed solution is given below:
+- First we gathered the data set from Kaggle (Quickdraw Sketches)
+- Then we trained the model using the dataset.
+- Then we enhanced the accuracy of the model by making some changes.
+- Then we worked on White-board Application for the users to draw and save their sketches.
+- Then we made a function to take the image from device and made the model to predict what is drawn.
+
+Finally,  the results are shown.
