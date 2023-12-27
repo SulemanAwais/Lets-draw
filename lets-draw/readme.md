@@ -1,4 +1,4 @@
-# Problem Statement
+## Problem Statement
 <p>To identify hand-drawn sketches. These sketches can be shapes and objects. People can draw anything (limited number of classes) on their device and it will be detected/identified.
 User can give us sketches like these:
 
@@ -30,3 +30,7 @@ Finally, the results are shown.
 
 ![Results](./results.png)
 <p>
+
+## Drawbacks
+- If the user has drawn something that the model as not seen (not trained upon), the model will still predict but that would be wrong definitely.
+- If the user has drawn that is difficult for even the human eye to understand, the model is most likely to make a mistake too.
